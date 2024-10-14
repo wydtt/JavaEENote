@@ -1,0 +1,1 @@
+redploy 和重启web应用就会调用destory
